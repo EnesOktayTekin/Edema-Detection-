@@ -21,7 +21,8 @@ Interpretation: Grad-CAM visualization techniques are employed to provide insigh
 ## Visualization
 The project includes several visualization techniques to provide insights into model performance and behavior:
 
-## Training History: Interactive plots showing accuracy and loss metrics during training for both the training and validation sets, enabling the identification of potential overfitting or underfitting issues.
+## Training History: 
+Interactive plots showing accuracy and loss metrics during training for both the training and validation sets, enabling the identification of potential overfitting or underfitting issues.
 Model Comparison: Bar charts comparing precision, recall, and F1 scores across different modeling approaches, facilitating quantitative performance assessment.
 Prediction Visualization: Sample images with predicted and actual class labels, providing a qualitative assessment of model performance.
 Grad-CAM Heatmaps: Class activation maps that highlight regions of interest in the input images that significantly influence model predictions, enhancing model interpretability and transparency.
